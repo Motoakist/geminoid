@@ -1,0 +1,266 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "GeminoidN.moc3",
+		"Textures": [
+			"GeminoidN.8192/texture_00.png"
+		],
+		"Physics": "GeminoidN.physics3.json",
+		"DisplayInfo": "GeminoidN.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Sad_01",
+				"File": "../../../Sad_01.exp3.json"
+			},
+			{
+				"Name": "Sad_02",
+				"File": "../../../Sad_02.exp3.json"
+			},
+			{
+				"Name": "Sad_03",
+				"File": "../../../Sad_03.exp3.json"
+			},
+			{
+				"Name": "Sad_04",
+				"File": "../../../Sad_04.exp3.json"
+			},
+			{
+				"Name": "Sad_05",
+				"File": "../../../Sad_05.exp3.json"
+			},
+			{
+				"Name": "Sad_06",
+				"File": "../../../Sad_06.exp3.json"
+			},
+			{
+				"Name": "Sad_07",
+				"File": "../../../Sad_07.exp3.json"
+			},
+			{
+				"Name": "Sad_08",
+				"File": "../../../Sad_08.exp3.json"
+			},
+			{
+				"Name": "Sad_09",
+				"File": "../../../Sad_09.exp3.json"
+			},
+			{
+				"Name": "Sad_10",
+				"File": "../../../Sad_10.exp3.json"
+			},
+			{
+				"Name": "Anger_01",
+				"File": "../../../Anger_01.exp3.json"
+			},
+			{
+				"Name": "Anger_02",
+				"File": "../../../Anger_02.exp3.json"
+			},
+			{
+				"Name": "Anger_03",
+				"File": "../../../Anger_03.exp3.json"
+			},
+			{
+				"Name": "Anger_04",
+				"File": "../../../Anger_04.exp3.json"
+			},
+			{
+				"Name": "Anger_05",
+				"File": "../../../Anger_05.exp3.json"
+			},
+			{
+				"Name": "Anger_06",
+				"File": "../../../Anger_06.exp3.json"
+			},
+			{
+				"Name": "Anger_07",
+				"File": "../../../Anger_07.exp3.json"
+			},
+			{
+				"Name": "Anger_08",
+				"File": "../../../Anger_08.exp3.json"
+			},
+			{
+				"Name": "Anger_09",
+				"File": "../../../Anger_09.exp3.json"
+			},
+			{
+				"Name": "Anger_10",
+				"File": "../../../Anger_10.exp3.json"
+			},
+			{
+				"Name": "Surprised_01",
+				"File": "../../../Surprised_01.exp3.json"
+			},
+			{
+				"Name": "Surprised_02",
+				"File": "../../../Surprised_02.exp3.json"
+			},
+			{
+				"Name": "Surprised_03",
+				"File": "../../../Surprised_03.exp3.json"
+			},
+			{
+				"Name": "Surprised_04",
+				"File": "../../../Surprised_04.exp3.json"
+			},
+			{
+				"Name": "Surprised_05",
+				"File": "../../../Surprised_05.exp3.json"
+			},
+			{
+				"Name": "Surprised_06",
+				"File": "../../../Surprised_06.exp3.json"
+			},
+			{
+				"Name": "Surprised_07",
+				"File": "../../../Surprised_07.exp3.json"
+			},
+			{
+				"Name": "Surprised_08",
+				"File": "../../../Surprised_08.exp3.json"
+			},
+			{
+				"Name": "Surprised_09",
+				"File": "../../../Surprised_09.exp3.json"
+			},
+			{
+				"Name": "Surprised_10",
+				"File": "../../../Surprised_10.exp3.json"
+			},
+			{
+				"Name": "Disgust_01",
+				"File": "../../../Disgust_01.exp3.json"
+			},
+			{
+				"Name": "Disgust_02",
+				"File": "../../../Disgust_02.exp3.json"
+			},
+			{
+				"Name": "Disgust_03",
+				"File": "../../../Disgust_03.exp3.json"
+			},
+			{
+				"Name": "Disgust_04",
+				"File": "../../../Disgust_04.exp3.json"
+			},
+			{
+				"Name": "Disgust_05",
+				"File": "../../../Disgust_05.exp3.json"
+			},
+			{
+				"Name": "Disgust_06",
+				"File": "../../../Disgust_06.exp3.json"
+			},
+			{
+				"Name": "Disgust_07",
+				"File": "../../../Disgust_07.exp3.json"
+			},
+			{
+				"Name": "Disgust_08",
+				"File": "../../../Disgust_08.exp3.json"
+			},
+			{
+				"Name": "Disgust_09",
+				"File": "../../../Disgust_09.exp3.json"
+			},
+			{
+				"Name": "Disgust_10",
+				"File": "../../../Disgust_10.exp3.json"
+			},
+			{
+				"Name": "Fear_01",
+				"File": "../../../Fear_01.exp3.json"
+			},
+			{
+				"Name": "Fear_02",
+				"File": "../../../Fear_02.exp3.json"
+			},
+			{
+				"Name": "Fear_03",
+				"File": "../../../Fear_03.exp3.json"
+			},
+			{
+				"Name": "Fear_04",
+				"File": "../../../Fear_04.exp3.json"
+			},
+			{
+				"Name": "Fear_05",
+				"File": "../../../Fear_05.exp3.json"
+			},
+			{
+				"Name": "Fear_06",
+				"File": "../../../Fear_06.exp3.json"
+			},
+			{
+				"Name": "Fear_07",
+				"File": "../../../Fear_07.exp3.json"
+			},
+			{
+				"Name": "Fear_08",
+				"File": "../../../Fear_08.exp3.json"
+			},
+			{
+				"Name": "Fear_09",
+				"File": "../../../Fear_09.exp3.json"
+			},
+			{
+				"Name": "Fear_10",
+				"File": "../../../Fear_10.exp3.json"
+			},
+			{
+				"Name": "Regret_01",
+				"File": "../../../Regret_01.exp3.json"
+			},
+			{
+				"Name": "Regret_02",
+				"File": "../../../Regret_02.exp3.json"
+			},
+			{
+				"Name": "Regret_03",
+				"File": "../../../Regret_03.exp3.json"
+			},
+			{
+				"Name": "Regret_04",
+				"File": "../../../Regret_04.exp3.json"
+			},
+			{
+				"Name": "Regret_05",
+				"File": "../../../Regret_05.exp3.json"
+			},
+			{
+				"Name": "Regret_06",
+				"File": "../../../Regret_06.exp3.json"
+			},
+			{
+				"Name": "Regret_07",
+				"File": "../../../Regret_07.exp3.json"
+			},
+			{
+				"Name": "Regret_08",
+				"File": "../../../Regret_08.exp3.json"
+			},
+			{
+				"Name": "Regret_09",
+				"File": "../../../Regret_09.exp3.json"
+			},
+			{
+				"Name": "Regret_10",
+				"File": "../../../Regret_10.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
